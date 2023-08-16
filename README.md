@@ -1,7 +1,5 @@
 # ShowcaseView
-
-![Screenshot_20230816_132444](https://github.com/team-flobiz/ShowcaseView/assets/92913644/d77dbc17-f02d-49bc-80a1-169cec53f070)
-
+<img width="370" src="https://github.com/team-flobiz/ShowcaseView/assets/92913644/d77dbc17-f02d-49bc-80a1-169cec53f070">
 
 Create Showcase Instance
 
